@@ -1,0 +1,4 @@
+configmap:
+   host: mysql
+deploymentset:
+  version: 1.0.0

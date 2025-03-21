@@ -1,4 +1,4 @@
 apiVersion: v2
-name: backend
+name: mybackend
 description: this is backend deployment
 version: 1.0.0
